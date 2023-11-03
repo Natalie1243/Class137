@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+
+}
+
+#start{
+    font-size: 15px;
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    background-color: orange;
+    text-align: center;
+    line-height: 3;
+    font-family:'Playpen Sans', cursive;
+    font-size: 18px;
+}
+
+canvas{
+    border:2px solid orange;
+    border-radius: 15px;
+    margin-top: 125px;
+    box-shadow: 5px 5px 5px rgb(255, 209, 3);
+}
